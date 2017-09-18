@@ -9,7 +9,7 @@ use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 
 class ContactController extends BaseController
 {
-    const SITE_TITLE = 'レンタルホームページ';
+    const SITE_TITLE = 'ふりスタ学習塾';
     const EMAIL_OWNER = 'ryo238715@icloud.com';
 
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;

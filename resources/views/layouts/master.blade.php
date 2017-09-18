@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
-<title>Site Title</title>
+<title>ふりスタ学習塾</title>
 <meta name="keywords" content="">
 <meta name="description" content="サイト説明 | {{$pageName}}">
 <link rel="stylesheet" href="/css/style.css?<?=time();?>" type="text/css" media="screen">
@@ -13,7 +13,7 @@
 <body>
 <header id="header" role="banner">
     <div class="inner">
-        <h1>レンタルホームページ</h1>
+        <h1>ふりスタ学習塾</h1>
         <h2><a href="/"><img src="/images/banners/logo.png" alt=""></a></h2>
 	<div class="contact">
             @include('elements.contact')
