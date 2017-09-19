@@ -4,8 +4,7 @@
 <div id="mainImg">
     <div class="flexslider">
         <ul class="slides" style="text-align:center;">
-            <li><img src="/images/banners/mainImg2.png" height="328" alt=""></li>
-            <li><img src="/images/banners/mainImg1.png" height="328" alt=""></li>
+            <li><img src="/images/banners/mainImg1.jpg" height="328" alt=""></li>
         </ul>
     </div>
 </div>
