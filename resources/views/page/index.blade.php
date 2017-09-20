@@ -14,11 +14,11 @@
         <section>
             <article id="post-51" class="content">
                 <header>
-                    <h2 class="title"><span>ふりスタ学習塾とは</span></h2>
+                    <h2 class="title"><span>ふりスタとは？</span></h2>
                 </header>
                 <div class="post toppage">
                     <p><img src="/images/post51.png" alt="" width="230" class="alignleft" /><br>
-私たちふりスタ学習塾は、数学や理科などの理系科目に特化した学習塾です。<br><br>
+「 Free　Style　Study　System 」（ フリー・スタイル・スタディ・システム ）の略称で、「 自由な形式の学習形態 」を目的としています。<br><br>
                     </p>
                 </div>
             </article>
