@@ -52,41 +52,136 @@ C.「 ゲスト・模試生プラン 」<br>〔 模擬試験のみ希望する�
             </article>
         </section>
         <section>
-            <article id="post-52" class="content">
+            <article id="fee" class="content">
                 <header>
-                    <h2 class="title"><span>事業概要</span></h2>
+                    <h2 class="title"><span>指導料金「１対1の完全個別エクストラコース」（消費税込）</span></h2>
                 </header>
                 <div class="post toppage">
-                    <p><img src="/images/post52.png" alt="" width="230" class="alignleft" /><br>
-ホームページ作成事業<br>
-Webサイト作成事業<br>
-プログラム制作事業<br>
+                    <table class="statsDay">
+                        <tbody>
+                            <img src="images/banners/1on1.png" alt="" width="231" class="alignright">
+                            <tr>
+                                <th>小学生</th>
+                                <td>１時間</td>
+                                <td>　¥2,400　</td>
+                            </tr>
+                            <tr>
+                                <th>中学1年生　　</th>
+                                <td>２時間</td>
+                                <td>　¥6,000　</td>
+                            </tr>
+                            <tr>
+                                <th>中学2年生　　</th>
+                                <td>２時間</td>
+                                <td>　¥7,000　</td>
+                            </tr>
+                            <tr>
+                                <th>中学3年生　　</th>
+                                <td>２時間</td>
+                                <td>　¥7,500　</td>
+                            </tr>
+                            <tr>
+                                <th>高校1年生　　</th>
+                                <td>２時間</td>
+                                <td>　¥8,000　</td>
+                            </tr>
+                            <tr>
+                                <th>高校2年生　　</th>
+                                <td>２時間</td>
+                                <td>　¥9,000　</td>
+                            </tr>
+                            <tr>
+                                <th>高校3年生　　</th>
+                                <td>２時間</td>
+                                <td>　¥10,000　</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                            ※　仙台高専４年生・浪人生は高校３年生料金となります。
+                </div>
+            </article>
+            <article id="" class="content">
+                <header>
+                    <h2 class="title"><span>指導料金「小集団一斉指導のスタンダードコース」（消費税込）</span></h2>
+                </header>
+                <div class="post toppage">
+                    <img src="images/banners/school_room.png" alt="" width="241" class="alignleft">
+                    <table class="statsDay">
+                        <tbody>
+                            <tr>
+                                <th>１対２</th>
+                                <td>　¥1,900　</td>
+                            </tr>
+                            <tr>
+                                <th>１対２</th>
+                                <td>　¥1,900　</td>
+                            </tr>
+                            <tr>
+                                <th>１対２</th>
+                                <td>　¥1,900　</td>
+                            </tr>
+                            <tr>
+                                <th>１対２</th>
+                                <td>　¥1,900　</td>
+                            </tr>
+                            <tr>
+                                <th>１対２</th>
+                                <td>　¥1,900　</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </article>
+        </section>
+        <section>
+            <article id="format" class="content">
+                <header>
+                    <h2 class="title"><span>≪ふりスタ≫の指導形式</span></h2>
+                </header>
+                <div class="post toppage">
+                    <h3>小集団一斉指導のスタンダードコース（１コマ60分）</h3>
+                    <p>　１クラス2人～8人程度の指導形式となります。問題演習に特化したコースです。１問でも多くの問題を解くことを目的とします。指導形式は集団指導ではありますが、（ 問題の選択により ）一人一人の学習内容は違います。</p>
+                    <h3>１対1の完全個別エクストラコース（基本的に１コマ２時間）</h3>
+                    <p>　生徒の学力を効率よく伸ばすことを目的とします。</p>
+<p>　・英検・数研・漢検　　各検定試験対策を行います。</p>
+<p>　・模試対策、定期試験対策、受験対策、各教科の単元別指導など</p>
+<p>　何を学習するのか生徒と話し合って決めます。</p>
+<br>
+                    <p>※上記の２コースを選択して受講することもできます。</p>
+<p>※月謝は受けた授業分を「 月謝袋 」を渡しての請求となります。（月末〆、翌月始めの請求となります。）</p>
+<br>
+<p>『 ふりスタ 』は「 新しくて、自由な学習スタイル 」の確立を目指しております。</p>
+                </div>
+            </article>
+        </section>
+        <section>
+            <article id="case" class="content">
+                <header>
+                    <h2 class="title"><span>合格実績</span></h2>
+                </header>
+                <div class="post toppage">
+                    <p><img src="/images/banners/daigaku.png" alt="" width="230" class="alignleft" /><p>
+某家庭教師塾で、10年にわたり実績を積み上げてきました。</p><p>プライベート指導をあわせて、年間1000コマ近く学習指導を行ったこともあります。</p><br><br><br><br><br><p>以下は過去の合格実績の一部です。</p>
+<p>・Aくん　（H28）東北大学法学部（センター試験及び２次試験での数学指導）（H25）仙台三高合格</p>
+<p>・Bさん　（H25）山形大学医学部看護学科（センター試験での数学指導）</p>
+<p>・Cさん　（H24）宮城教育大学中等教育教員養成課程後期合格（センター試験での数学指導）</p>
+
+<p>・東北福祉大学　２名（作業療法学科校内推薦合格、総合マネジメント学部）</p>
+<p>・東北学院大学　２名（経済学部）</p>
+<p>・東北文化学園大学、仙台大学（推薦合格）、新潟薬科大学、盛岡大学、工学院大学、他</p>
+
+<p>・仙台高専（３名うち２名が推薦合格）、柴田高校（４名うち1名が体育学科・前期合格）、村田高校（3名うち１名が推薦合格）、名取高校、名取北高校、白石高校（4名うち１名が看護学科）、角田高校（3名）、白石工業高等学校（２名、電気科、機械科）、宮城第一高校、尚絅学院中学、他</p>
                     </p>
                 </div>
             </article>
         </section>
         <section>
-            <article id="post-53" class="content">
-                <header>
-                    <h2 class="title"><span>実績紹介</span></h2>
-                </header>
-                <div class="post toppage">
-                    <p><img src="/images/post53.png" alt="" width="230" class="alignleft" /><br>
-株式会社ビットアークスホームページ作成<br>
-<a href="http://bitarx.jp">http://bitarx.jp</a><br><br>
-観光案内様向けホームページ作成<br>
-<a href="http://fujimer.work/">http://fujimer.work/</a><br><br>
-                    </p>
-                </div>
-            </article>
-        </section>
-        <section>
-            <article id="post-54" class="content">
+            <article id="access" class="content">
                 <header>
                     <h2 class="title"><span>アクセス</span></h2>
                 </header>
                 <div class="post toppage">
-                    <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.7358036044857!2d139.7179060504918!3d35.78186563195707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018931c9b954aab%3A0x906370f97f8478f1!2z44CSMTE1LTAwNDUg5p2x5Lqs6YO95YyX5Yy66LWk576977yR5LiB55uu77yU77yS4oiS77yX!5e0!3m2!1sja!2sjp!4v1504939262291" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3143.855684846724!2d140.6231687502867!3d38.00382650662266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f8a421d4b5f1241%3A0xdcf52d636bedeb85!2z44CSOTg5LTAyNDMg5a6u5Z-O55yM55m955-z5biC5rKi55uu77yY4oiS77yX!5e0!3m2!1sja!2sjp!4v1505975100454" width="98%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </p>
                 </div>
             </article>
