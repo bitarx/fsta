@@ -112,7 +112,10 @@
                             </tr>
                         </tbody>
                     </table>
-                            ※　仙台高専４年生・浪人生は高校３年生料金となります。
+                    ※　仙台高専４年生・浪人生は高校３年生料金となります。<br>
+                    ※　入会金 ¥5,000 (7/31)まで入会の方は無料となります。<br>
+                    ※　年間教材費 ¥3,000 (7/31)まで入会の方は無料となります。<br>
+                    ※　中2まで、入会金・年間教材費はともに無料となります。<br>
                 </div>
             </article>
             <article id="" class="content">
@@ -145,6 +148,9 @@
                             </tr>
                         </tbody>
                     </table>
+                    ※　入会金 ¥5,000 (7/31)まで入会の方は無料となります。<br>
+                    ※　年間教材費 ¥3,000 (7/31)まで入会の方は無料となります。<br>
+                    ※　中2まで、入会金・年間教材費はともに無料となります。<br>
                 </div>
             </article>
         </section>
@@ -176,7 +182,13 @@
                 </header>
                 <div class="post toppage">
                     <p><img src="/images/banners/daigaku.png" alt="" width="230" class="alignleft" /><p>
-某家庭教師塾で、10年にわたり実績を積み上げてきました。</p><p>プライベート指導をあわせて、年間1000コマ近く学習指導を行ったこともあります。</p><br><br><br><br><br><p>以下は過去の合格実績の一部です。</p>
+<span class="strongMessage">教室長は宮城教育大学卒業後、集団塾や個別指導
+塾の講師など様々な塾を経験し、プロ家庭教師塾で
+は、10年にわたり実績を積み上げてきました。<br>
+プライベート指導をあわせて、年間1000コマ
+近く学習指導を行ったこともあります。</span><br><br>
+教育相談ならお任せください。<br>
+</p><br><br><p>以下は過去の合格実績の一部です。</p>
 <p>・<span class="notice">Aくん</span>　（H28）<span class="strong">東北大学法学部</span>（センター試験及び２次試験での数学指導）<br>　　　　　（H25）<span class="highschool">仙台三高</span>合格</p>
 <p>・<span class="notice">Bさん</span>　（H25）<span class="strong">山形大学医学部看護学科</span>（センター試験での数学指導）</p>
 <p>・<span class="notice">Cさん</span>　（H24）<span class="strong">宮城教育大学中等教育教員養成課程後期</span>合格（センター試験での数学指導）</p>

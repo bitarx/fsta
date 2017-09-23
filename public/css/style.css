@@ -860,7 +860,11 @@ a#menu{display:none;}
 }
 
 .strong {
+    color: #b33e5c;
+}
+.strongMessage {
     color: #ff8c00;
+    font-size: 16px;
 }
 .notice {
     color: #0000cd;
