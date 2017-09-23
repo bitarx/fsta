@@ -20,11 +20,15 @@
                     「 Free　Style　Study　System 」（ フリー・スタイル・スタディ・システム ）の略称で、「 自由な形式の学習形態 」を目的としています。
                     <h3>１.『 Free　Style 』（学習指導形態）</h3>
                     <p><img src="images/banners/desc1.png" alt="" width="201" class="alignleft">
-                        A.「 スタンダード・少人数プラン 」〔 少人数（1クラス6～8名程度）一斉指導 〕<br>
-B.「 エクストラ・個別指導プラン 」〔 1対1、完全個別指導 〕<br>
-C.「 ゲスト・模試生プラン 」<br>〔 模擬試験のみ希望する場合 〕
-『 ふりスタ 』では『 新みやぎ模試 』が受験可能です。
-<br><br><br><br><br><br><br></p>
+                        A.「 スタンダード・少人数プラン 」<br>
+                           　 少人数（1クラス6～8名程度）一斉指導<br>
+                           　 クラスの人数によって、料金が変わります。<br><br>
+                        B.「 エクストラ・個別指導プラン 」<br>
+                           　 1対1の担当制完全個別指導 <br><br>
+                        C.「 ゲスト・模試生プラン 」<br>
+                           　 夏期・冬期講習や模擬試験のみ希望する場合<br>
+                           　 当塾では『 新みやぎ模試 』が受験可能です。<br><br><br></p>
+
                     <h3>２.『 Free　Time 』（ 学習時間の選択 ）</h3>
                     <p>B.「 エクストラ・個別指導プラン 」の場合、（ 担当講師と相談の上 ）学習指導時間の変更や延長が可能です。<br>また、生徒の体調不良の場合など指導時間を短くすることがあります（ 指導料金は30分単位の精算になります ）
 <br><br></p>
@@ -32,8 +36,19 @@ C.「 ゲスト・模試生プラン 」<br>〔 模擬試験のみ希望する�
                     <p><img src="images/banners/desc2.png" alt="" width="201" class="alignleft">塾生（ 模試生を除く）は、自習室として教室を自由にお使いいただけます。自習可能な時間帯を教室でご確認ください。
 <br><br><br><br><br><br><br><br><br><br><br></p>
                     <h3>４.『 Free　Drinks 』（ 水分補給サービス ）</h3>
-                    <p><img src="images/banners/jihan.png" alt="" width="190" class="alignright">模擬試験の実施日に限り、『ふりスタCafe』が無料となります。模擬試験の受験者は、ご自由にジュース類をお飲みください。
-<br><br><br><br><br><br><br><br><br><br></p>
+                    <p><img src="images/banners/jihan.png" alt="" width="190" class="alignright">模擬試験の実施日に限り、『ふりスタCafe』が無料となります。模擬試験の受験者は、ご自由にジュース類をお飲みください。<br><br><br>
+                    <span class="notice">新みやぎ模試・実施予定日</span>
+                    <table class="statsDay">
+                        <tr><td>10月１日(日)</td><td><span class="strong">【 中3生対象 】</span></td></tr>
+                        <tr><td>11月３日(金・祝) </td><td><span class="strong">【 中3生対象 】</span></td></tr>
+                        <tr><td>12月３日(日) </td><td><span class="strong">【 中3生対象 】</span></td></tr>
+                        <tr><td>１月７日(日)</td><td><span class="strong">【 中1・中2生も受験可能 】</span></td></tr>
+                        <tr><td>１月28日(日) </td><td><span class="strong">【 中3生対象 】</span></td></tr>
+                    </table>
+                    いずれも午前の部　 9時～13時20分<br>
+                    　　　　午後の部　14時～18時20分<br><br>
+
+                    </p>
                     <h3>５.『 振り返り　Study 』（ 選択可能な指導内容 ）</h3>
                     <p><img src="images/banners/mendan_boy.png" alt="" width="231" class="alignleft">B.「 エクストラ・個別指導プラン 」の場合、模試対策、定期試験対策、検定試験対策、歴史や化学反応式の学習し直しなど、教室長が指導方針を決め、学習担当講師と生徒が相談してその日の学習内容を決めます。一方的にその日の指導内容を決めることはありません。<br><br><br><br><br></p>
                     <h3>６.『 Free　Selection 』（ 自由な問題選択 ）</h3>
