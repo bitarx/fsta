@@ -796,8 +796,8 @@ a#menu{display:none;}
     float: left;
     padding: 10px 5px;
     clear: both;
-    margin-top: -1px;
-    width: 35%;
+    margin-top: -2px;
+    width: 34.8%;
     border-top: 1px solid #231815;
     font-weight: bold;
   }
@@ -814,7 +814,7 @@ a#menu{display:none;}
   }
 
   .inquery input[type="text"] {
-    width: 50%;
+    width: 70%;
     height: 30px;
     padding: 3px;
     border: 1px solid #ccc;
