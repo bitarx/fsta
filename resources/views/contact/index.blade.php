@@ -16,7 +16,7 @@
                 <dl>
                     <dt>お名前<br></dt>
                     <dd><input type="text" id="name"></dd>
-                    <dt>メールアドレス<br>(必須)</dt>
+                    <dt>メールアドレス(必須)</dt>
                     <dd><input type="text" id="mail"></dd>
                     <dt>自由記述欄</dt>
                     <dd><textarea name="" id="message" cols="30" rows="10"></textarea></dd>
