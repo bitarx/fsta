@@ -7,7 +7,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="白石市の学習塾、ふりスタ学習塾は「Free　Style　Study　System」（フリー・スタイル・スタディ・システム）の略称で、「自由な形式の学習形態」を目的としています。 | {{$pageName}}">
 <link rel="stylesheet" href="/css/style.css?<?=time();?>" type="text/css" media="screen">
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-48713906-14"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
 
+  gtag('config', 'UA-48713906-14');
+</script>
+
+<meta name="google-site-verification" content="gg1GevPxM08c6q-fgfWrPr2BVhU6xk8U23fy7qt3trk" />
 </head>
 
 <body>
