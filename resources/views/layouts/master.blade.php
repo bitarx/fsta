@@ -24,7 +24,7 @@
 <header id="header" role="banner">
     <div class="inner">
         <h1>ふりスタ学習塾</h1>
-        <h2><a href="/"><img src="/images/banners/logo.png" alt=""></a></h2>
+        <h2><a href="/"><!--<img src="/images/banners/logo.png" alt="">--!></a></h2>
 	<div class="contact">
             @include('elements.contact')
 	</div>
