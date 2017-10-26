@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
-<title>ふりスタ学習塾</title>
+<title>ふりスタ学習塾 | {{$pageName}}</title>
 <meta name="keywords" content="">
 <meta name="description" content="白石市の学習塾、ふりスタ学習塾は「Free　Style　Study　System」（フリー・スタイル・スタディ・システム）の略称で、「自由な形式の学習形態」を目的としています。 | {{$pageName}}">
 <link rel="stylesheet" href="/css/style.css?<?=time();?>" type="text/css" media="screen">
