@@ -199,8 +199,20 @@
 は、10年にわたり実績を積み上げてきました。<br>
 プライベート指導をあわせて、年間1000コマ
 近く学習指導を行ったこともあります。</span><br><br>
-教育相談ならお任せください。<br>
+
 </p><br><br><p>以下は過去の合格実績の一部です。</p>
+<p>☆   <span class="notice">I・K くん</span>（Ｈ29）<span class="strong">東北福祉大学・総合福祉学部・社会福祉学科</span>（ＡＯ入試２期）<br>
+　　　　　　（Ｈ26）<span class="highschool">柴田高校・体育学科</span>（前期選抜）</p>
+<p>☆   <span class="notice">R・O くん</span>（Ｈ29）<span class="strong">仙台高専・電気科専攻科</span>（推薦合格）≪4年生まで指導≫<br>
+　　　　　　（Ｈ25）<span class="strong">仙台高専・電気システム学科</span>（一般受験）</p>
+<p>☆   <span class="notice">Y・H くん</span>（H27）<span class="strong">東北大学法学部</span>（センター試験及び２次試験での数学指導）<br>
+　　　　　　（H25）<span class="highschool">仙台三高合格</span>（後期選抜）</p>
+<p>☆   <span class="notice">I・S くん</span>（Ｈ28）<span class="strong">東北福祉大学健康科学部リハビリテーション学科作業療法学専攻</span>
+(校内推薦合格)<br>
+　　　　　　（Ｈ27）<span class="highschool">泉松陵高校・普通科</span>（後期選抜試験）</p>
+<p>☆   <span class="notice">Y・T くん</span>（Ｈ25）<span class="strong">東北福祉大学・総合マネジメント学部</span>（一般受験）<br>
+　　　　　　（Ｈ22）<span class="highschool">角田高校普通科</span>（一般受験）</p>
+
 <p>・<span class="notice">Aくん</span>　（H28）<span class="strong">東北大学法学部</span>（センター試験及び２次試験での数学指導）<br>　　　　　（H25）<span class="highschool">仙台三高</span>合格</p>
 <p>・<span class="notice">Bさん</span>　（H25）<span class="strong">山形大学医学部看護学科</span>（センター試験での数学指導）</p>
 <p>・<span class="notice">Cさん</span>　（H24）<span class="strong">宮城教育大学中等教育教員養成課程後期</span>合格（センター試験での数学指導）</p>
