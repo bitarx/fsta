@@ -866,6 +866,10 @@ a#menu{display:none;}
     color: #ff8c00;
     font-size: 16px;
 }
+.emphasis {
+    color: #ff4500;
+    font-size: 18px;
+}
 .notice {
     color: #0000cd;
 }
