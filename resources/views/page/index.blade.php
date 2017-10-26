@@ -212,17 +212,25 @@
 　　　　　　（Ｈ27）<span class="highschool">泉松陵高校・普通科</span>（後期選抜試験）</p>
 <p>☆   <span class="notice">Y・T くん</span>（Ｈ25）<span class="strong">東北福祉大学・総合マネジメント学部</span>（一般受験）<br>
 　　　　　　（Ｈ22）<span class="highschool">角田高校普通科</span>（一般受験）</p>
+<br>
+<p>☆   【 H28 】　<span class="strong">新潟薬科大学・薬学部、 仙台高専・建築デザイン学科</span>（推薦合格）、<span class="highschool">柴田高校</span>（普通科）、<span class="strong">盛岡大学</span>（文学部）</p>
+<p>☆   【 H27 】　<span class="highschool">名取北高</span>（後期選抜）、 <span class="highschool">宮城第一高等学校</span>（後期選抜）</p>
+<p>☆   【 H26 】　<span class="highschool">白石高校・看護学科</span>（後期選抜）、<span class="highschool">聖光学院</span>、<span class="strong">仙台高専・マテリアル環境</span>（推薦合格）、<span class="highschool">蔵王高校</span></p>
+<p>☆   【 H25 】　<span class="strong">山形大学医学部看護学科</span>（センター試験での数学指導）、<span class="highschool">尚絅学院中学、村田高校、角田高校、白石工業</span>（機械科）、<span class="highschool">白石工業</span>（電気科）</p>
+<p>☆   【 H24 】　<span class="strong">仙台大学</span>（校内推薦）、<span class="highschool">角田高校 、白石高校、蔵王高校、村田高校</span>（推薦合格）、<span class="highschool">村田高校</span>（一般受験）、<span class="highschool">名取高校</span></p>
+<p>☆   【 H23 】　<span class="strong">宮城教育大学中等教育教員養成課程後期合格</span>（数学指導）</p>
+<p>【 その他 】　<span class="strong">東北文化学園大学</span>、<span class="strong">工学院大学</span>、<span class="highschool">白石工業高等学校</span>（２名、電気科、機械科）</p>
+<br>
+<br>
+<p>≪　特に多い進学先　≫</p>
+<p>・<span class="strong">仙台高専</span>（３名うち２名が推薦合格）</p>
+<p>・<span class="highschool">白石高校</span>（4名うち１名が看護学科）</p>
+<p>・<span class="highschool">柴田高校</span>（４名うち1名が体育学科・前期合格）</p>
+<p>・<span class="highschool">村田高校</span>（3名うち１名が推薦合格）</p>
+<p>・<span class="highschool">角田高校</span>（3名）</p>
+<p>・<span class="strong">東北福祉大学</span>（3名）</p>
+<p>・<span class="strong">東北学院大学</span>（2名）</p>
 
-<p>・<span class="notice">Aくん</span>　（H28）<span class="strong">東北大学法学部</span>（センター試験及び２次試験での数学指導）<br>　　　　　（H25）<span class="highschool">仙台三高</span>合格</p>
-<p>・<span class="notice">Bさん</span>　（H25）<span class="strong">山形大学医学部看護学科</span>（センター試験での数学指導）</p>
-<p>・<span class="notice">Cさん</span>　（H24）<span class="strong">宮城教育大学中等教育教員養成課程後期</span>合格（センター試験での数学指導）</p>
-
-<p>・<span class="strong">東北福祉大学</span>　２名（作業療法学科校内推薦合格、総合マネジメント学部）</p>
-<p>・<span class="strong">東北学院大学</span>　２名（経済学部）</p>
-<p>・<span class="strong">東北文化学園大学</span>、<span class="strong">仙台大学</span>（推薦合格）、<span class="strong">新潟薬科大学</span>、<span class="strong">盛岡大学</span>、<span class="strong">工学院大学</span>、他</p>
-
-<p>・<span class="highschool">仙台高専</span>（３名うち２名が推薦合格）、<span class="highschool">柴田高校</span>（４名うち1名が体育学科・前期合格）、<span class="highschool">村田高校</span>（3名うち１名が推薦合格）、<span class="highschool">名取高校</span>、<span class="highschool">名取北高校</span>、<span class="highschool">白石高校</span>（4名うち１名が看護学科）、<span class="highschool">角田高校</span>（3名）、<span class="highschool">白石工業高等学校</span>（２名、電気科、機械科）、<span class="highschool">宮城第一高校</span>、<span class="highschool">尚絅学院中学</span>、他</p>
-                    </p>
                 </div>
             </article>
         </section>
