@@ -135,29 +135,29 @@
                         <tbody>
                             <tr>
                                 <th>１対２</th>
-                                <td>¥1,900 (¥1,500)</td>
+                                <td>¥1,900</td>
                             </tr>
                             <tr>
                                 <th>１対３</th>
-                                <td>¥1,800 (¥1,500)</td>
+                                <td>¥1,800</td>
                             </tr>
                             <tr>
                                 <th>１対４</th>
-                                <td>¥1,700 (¥1,400)</td>
+                                <td>¥1,700</td>
                             </tr>
                             <tr>
                                 <th>１対５</th>
-                                <td>¥1,600 (¥1,300)</td>
+                                <td>¥1,600</td>
                             </tr>
                             <tr>
                                 <th>１対６以上</th>
-                                <td>¥1,500 (¥1,200）</td>
+                                <td>¥1,500 (エクストラ生 ¥1,200）</td>
                             </tr>
                         </tbody>
                     </table>
-                    ()内は、エクストラ生料金<br><br>
-                    <div class="emphasis">『 ふりスタ ～ 秋の陣「 実力練成講座 」～ 』　　開講中！<br>
-中３生対象：　 土・日・祝日の午前中</div><br>
+                    <br><br>
+                    <div class="emphasis">『 ふりスタ 冬の陣「 実力練成・入試実戦講座 」～ 』 大好評で開講中！<br>
+中３生対象：　 土・日・祝日の午前中、他(塾カレンダーによる)</div><br>
 
                     ※ 入会金 ¥5,000(10/31)まで入会の方は無料となります。<br>
                     ※ 年間教材費 ¥3,000(10/31)まで入会の方は無料となります。<br>
@@ -195,27 +195,32 @@
                 <div class="post toppage">
                     <p><img src="/images/banners/daigaku.png" alt="" width="230" class="alignleft" /><p>
 <span class="strongMessage">教室長は宮城教育大学卒業後、集団塾や個別指導
-塾の講師など様々な塾を経験し、プロ家庭教師塾で
-は、10年にわたり実績を積み上げてきました。<br>
-プライベート指導をあわせて、年間1000コマ
-近く学習指導を行ったこともあります。</span><br><br>
+塾の講師など様々な塾を経験し、プロ家庭教師塾で、約10年にわたり実績を積み上げてきました。プライベート指導をあわせ
+て、年間1000コマ近く学習指導を行ったこともあります。</span><br><br>
 
 </p><br><br><p>以下は過去の合格実績の一部です。</p>
 <p>☆   <span class="notice">I・K くん</span>（Ｈ29）<span class="strong">東北福祉大学・総合福祉学部・社会福祉学科</span>（ＡＯ入試２期）<br>
-　　　　　　（Ｈ26）<span class="highschool">柴田高校・体育学科</span>（前期選抜）</p>
-<p>☆   <span class="notice">R・O くん</span>（Ｈ29）<span class="strong">仙台高専・電気科専攻科</span>（推薦合格）≪4年生まで指導≫<br>
-　　　　　　（Ｈ25）<span class="strong">仙台高専・電気システム学科</span>（一般受験）</p>
+　　　　　　（Ｈ26）<span class="highschool">柴田高校・体育学科</span>（前期選抜）【 大河原中学校出身 】</p>
+
+<p>☆   <span class="notice">R・O くん</span>（Ｈ28）<span class="strong">仙台高専・電気科専攻科</span>（推薦合格）≪4年生まで指導≫<br>
+　　　　　　（Ｈ24）<span class="strong">仙台高専・電気システム学科</span>（一般受験）【 角田中学校出身 】</p>
+
 <p>☆   <span class="notice">Y・H くん</span>（H27）<span class="strong">東北大学法学部</span>（センター試験及び２次試験での数学指導）<br>
-　　　　　　（H25）<span class="highschool">仙台三高合格</span>（後期選抜）</p>
+　　　　　　（H24）<span class="highschool">仙台三高合格</span>（後期選抜）</p>
+
 <p>☆   <span class="notice">I・S くん</span>（Ｈ28）<span class="strong">東北福祉大学健康科学部リハビリテーション学科作業療法学専攻</span>
 (校内推薦合格)<br>
-　　　　　　（Ｈ27）<span class="highschool">泉松陵高校・普通科</span>（後期選抜試験）</p>
+　　　　　　（Ｈ25）<span class="highschool">泉松陵高校・普通科</span>（後期選抜試験）【 金ケ瀬中学校出身 】</p>
+
+<p>☆   <span class="notice">M・S さん</span>（Ｈ27）<span class="strong">福島大学・人文社会科学群・人間発達文化学類</span>（推薦合格）<br>
+　　　　　　（Ｈ24）<span class="highschool">白石高校・普通科合格</span>【 白石東中学校出身 】</p>
+
 <p>☆   <span class="notice">Y・T くん</span>（Ｈ25）<span class="strong">東北福祉大学・総合マネジメント学部</span>（一般受験）<br>
-　　　　　　（Ｈ22）<span class="highschool">角田高校普通科</span>（一般受験）</p>
+　　　　　　（Ｈ22）<span class="highschool">角田高校普通科</span>（一般受験）【 川崎中学校出身 】</p>
 <br>
-<p>☆   【 H28 】　<span class="strong">新潟薬科大学・薬学部、 仙台高専・建築デザイン学科</span>（推薦合格）、<span class="highschool">柴田高校</span>（普通科）、<span class="strong">盛岡大学</span>（文学部）</p>
-<p>☆   【 H27 】　<span class="highschool">名取北高</span>（後期選抜）、 <span class="highschool">宮城第一高等学校</span>（後期選抜）</p>
-<p>☆   【 H26 】　<span class="highschool">白石高校・看護学科</span>（後期選抜）、<span class="highschool">聖光学院</span>、<span class="strong">仙台高専・マテリアル環境</span>（推薦合格）、<span class="highschool">蔵王高校</span></p>
+<p>☆   【 H28 】　<span class="strong">新潟薬科大学・薬学部、 仙台高専・建築デザイン学科</span>（推薦合格）、<span class="highschool">柴田高校</span>（普通科）、<span class="strong">盛岡大学</span>（文学部）、<span class="strong">仙台高専・建築デザイン学科</span>（推薦合格）【遠刈田中学校出身】</p>
+<p>☆   【 H27 】　<span class="highschool">名取北高</span>（後期選抜）、 <span class="highschool">宮城第一高等学校</span>（後期選抜）【角田中出身】</p>
+<p>☆   【 H26 】　<span class="highschool">白石高校・看護学科</span>（後期選抜）【白石東中学校出身】、<span class="highschool">聖光学院</span>、<span class="strong">仙台高専・マテリアル環境</span>（推薦合格）【金津中学校出身】、<span class="highschool">蔵王高校</span></p>
 <p>☆   【 H25 】　<span class="strong">山形大学医学部看護学科</span>（センター試験での数学指導）、<span class="highschool">尚絅学院中学、村田高校、角田高校、白石工業</span>（機械科）、<span class="highschool">白石工業</span>（電気科）</p>
 <p>☆   【 H24 】　<span class="strong">仙台大学</span>（校内推薦）、<span class="highschool">角田高校 、白石高校、蔵王高校、村田高校</span>（推薦合格）、<span class="highschool">村田高校</span>（一般受験）、<span class="highschool">名取高校</span></p>
 <p>☆   【 H23 】　<span class="strong">宮城教育大学中等教育教員養成課程後期合格</span>（数学指導）</p>
