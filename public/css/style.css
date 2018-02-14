@@ -890,3 +890,7 @@ p {
     line-height: 1.8em;
     letter-spacing: 0.05em;
 }
+
+.mark {
+    background: linear-gradient(transparent 60%, #ffff00 60%) !important;
+}
