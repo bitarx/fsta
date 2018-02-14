@@ -18,7 +18,7 @@
                     <h2 class="title"><span>ふりスタとは？</span></h2>
                 </header>
                 <div class="post">
-                    <p><span class="mark">「 Free　Style　Study　System 」（ フリー・スタイル・スタディ・システム ）</span>の略称で、「 <span class="mark">自由な形式の学習形態</span> 」を目的としています。</p>
+                    <p>「 Free　Style　Study　System 」（ フリー・スタイル・スタディ・システム ）の略称で、「 自由な形式の学習形態 」を目的としています。</p>
                     <h3>☆『 Free　Style 』（学習指導形態）</h3>
                     <p><img src="images/banners/desc1.png" alt="" width="201" class="alignleft">
                         <span class="strong">A. 「 家庭教師・個別指導プラン 」〔 1対1・担任制完全個別スタイル 〕</span><br>
@@ -42,7 +42,7 @@
 
                     <h3>☆『 Free　Study 』 教室の使用は自由です〔 A、B、Cプラン対象 〕</h3>
                     <p><img src="images/banners/desc2.png" alt="" width="201" class="alignleft">
-                       塾生（ 模試生を除く ）は、自習室として教室を自由にお使いいただけます。<br>「 <span class="mark">時と精神の自習ブース</span> 」で静かに勉強することができます。<br>自習時間の質と量が合格のカギを握ります！<br><br>
+                       塾生（ 模試生を除く ）は、自習室として教室を自由にお使いいただけます。<br>「 時と精神の自習ブース 」で静かに勉強することができます。<br>自習時間の質と量が合格のカギを握ります！<br><br>
                         自習室の使用例<br>
                         ① <span class="notice">土・日・祝日や季節講習期間中など</span><br>
                         ９：00～12：00　スタンダード個別指導クラス<br>
@@ -51,18 +51,18 @@
                         16：30～19：00　自習室として教室を開放<br><br></p>
 
                     <h3>☆ 一人ひとりのオーダーメイドプログラム〔 A、Bプラン対象 〕</h3>
-                    <p><img src="images/banners/classroom.png" alt="" width="231" class="alignright">子供たち一人ひとりの性格や学力は異なるものです。<br>一人ひとりのオーダーメイド学習プログラムなので、<span class="mark">「 わかりきった問題の繰り返し 」や「 難しすぎて一人では解けない 」と言った、無駄な時間がありません。</span><br>時間を有効に使うことができます。</p>
+                    <p><img src="images/banners/classroom.png" alt="" width="231" class="alignright">子供たち一人ひとりの性格や学力は異なるものです。<br>一人ひとりのオーダーメイド学習プログラムなので、「 わかりきった問題の繰り返し 」や「 難しすぎて一人では解けない 」と言った、無駄な時間がありません。<br>時間を有効に使うことができます。</p>
 
                     <h3>☆ 『 長期目標の設定 』＆『 短期目標の修正 』</h3>
                     <p><img src="images/banners/mendan_boy.png" alt="" width="231" class="alignleft">
-                        入塾面談時に「 年間長期目標 」をお伺いします。<br>定期試験や模擬試験の度に「 短期目標 」の見直しを行います。<br><span class="mark">「 短期目標 」とは「 次の試験までの学習内容の指導計画 」</span>になります。<br><br><br><br></p>
+                        入塾面談時に「 年間長期目標 」をお伺いします。<br>定期試験や模擬試験の度に「 短期目標 」の見直しを行います。<br>「 短期目標 」とは「 次の試験までの学習内容の指導計画 」になります。<br><br><br><br></p>
 
                     <h3>☆ 『 Free　Star 』を一緒に目指しましょう</h3>
-                    <p><img src="images/banners/success.png" alt="" width="231" class="alignleft">他の人よりも頑張って、他の人よりも問題を1問でも多く解いて、「 <span class="mark">立派な自由な星</span> 」のように輝きましょう。<br>受験だけではなく、世の中は競争だらけです。なんでも頑張って、自分の限界を広げましょう。<br><br><br></p>
+                    <p><img src="images/banners/success.png" alt="" width="231" class="alignleft">他の人よりも頑張って、他の人よりも問題を1問でも多く解いて、「 立派な自由な星 」のように輝きましょう。<br>受験だけではなく、世の中は競争だらけです。なんでも頑張って、自分の限界を広げましょう。<br><br><br></p>
 
 
                     <h3>☆ 『 Free　Drinks 』（ 水分補給サービス ）</h3>
-                    <p><img src="images/banners/jihan.png" alt="" width="190" class="alignright"><span class="mark">模擬試験の実施日に限り、『 ふりスタCafé 』が無料</span>となります。<br>模擬試験の受験者は、ご自由にジュース類をお飲みください。<br><br>
+                    <p><img src="images/banners/jihan.png" alt="" width="190" class="alignright">模擬試験の実施日に限り、『 ふりスタCafé 』が無料となります。<br>模擬試験の受験者は、ご自由にジュース類をお飲みください。<br><br>
                     <span class="notice">新みやぎ模試・実施予定日</span>
                     <table class="statsDay">
                         <tr><td>３月25日(日)</td><td><span class="strong">【 新小５ ～ 新中３生対象 】</span></td></tr>
@@ -186,23 +186,23 @@
                     <h3>大学受験生 ＆ 高専生</h3>
                     <p>・〔 国立大学・私立大学 〕 志望校受験 + 定期試験対策<br>
 ・〔 高専生 〕定期試験対策( 重積分、ラプラス変換、フーリエ解析まで指導します )
-</p>
+</p>hasebe-oboe-reed
                     <h3>中学生 ＆ 高校受験生</h3>
                     <p>
                         ・〔 TOP高 狙い撃ち 〕 ナンバースクール ＆ 国立高専狙い撃ち<br>
-　中学3年生への進級を待たずに、中学生範囲の数学や英語の学習を終える生徒さんもいます。<br>　<span class="mark">ご希望の場合、高校生範囲の数学や英語も指導します。</span><br>
+　中学3年生への進級を待たずに、中学生範囲の数学や英語の学習を終える生徒さんもいます。<br>　ご希望の場合、高校生範囲の数学や英語も指導します。<br>
 ・〔 定期試験 ＆ 実力試験対策 〕 総合学力の充実<br>
-　<span class="mark">「 定期試験の対策 」と「 模擬試験の対策 」が学習指導の中心</span>になります。<br>
+　「 定期試験の対策 」と「 模擬試験の対策 」が学習指導の中心になります。<br>
 ・〔 ベーシック ＆ 定期試験 〕　基礎学力の充実<br>
-　<span class="mark">「 既習範囲の確認 及び 基礎学力の定着 」と「 定期試験の対策 」が学習指導の中心</span>になります。<br>　学習習慣の定着が目標になります。
+　「 既習範囲の確認 及び 基礎学力の定着 」と「 定期試験の対策 」が学習指導の中心になります。<br>　学習習慣の定着が目標になります。
                     </p>
                     <h3>小学生</h3>
                     <p>
                         ・〔 予習 + 復習 〕 学習習慣の定着<br>
-　<span class="mark">学校の授業内容の予習と復習が中心</span>になります。<br>　<span class="mark">算数(数学)や英語の先取り学習や、各種検定試験対策</span>も行います。<br>　いっしょに『 We can 』の学習も行えます。
+　学校の授業内容の予習と復習が中心になります。<br>　算数(数学)や英語の先取り学習や、各種検定試験対策も行います。<br>　いっしょに『 We can 』の学習も行えます。
                     </p>
 <br>
-<p>『 ふりスタ 』は「 <span class="strong">新しくて、自由な学習スタイル</span> 」の確立を目指しております。</p>
+<p>『 ふりスタ 』は「 新しくて、自由な学習スタイル 」の確立を目指しております。</p>
                 </div>
             </article>
         </section>
