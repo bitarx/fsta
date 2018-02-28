@@ -185,8 +185,8 @@
                 <div class="post toppage">
                     <h3>大学受験生 ＆ 高専生</h3>
                     <p>・〔 国立大学・私立大学 〕 志望校受験 + 定期試験対策<br>
-・〔 高専生 〕定期試験対策( 重積分、ラプラス変換、フーリエ解析まで指導します )
-</p>hasebe-oboe-reed
+・〔 高専生 〕定期試験対策(重積分、ラプラス変換、フーリエ解析まで指導します)
+</p>
                     <h3>中学生 ＆ 高校受験生</h3>
                     <p>
                         ・〔 TOP高 狙い撃ち 〕 ナンバースクール ＆ 国立高専狙い撃ち<br>
@@ -240,8 +240,6 @@
 (校内推薦)<br>
 　　　　　　（Ｈ25）<span class="highschool">泉松陵高校・普通科</span>（後期選抜）【 金ケ瀬中 】</p>
 
-<p>☆   <span class="notice">Y・H くん</span>（Ｈ27）<span class="strong">東北大学法学部（センター試験及び２次試験での数学指導）</span><br>
-　　　　　　（Ｈ24）<span class="highschool">仙台三高合格</span>（後期）</p>
 
 <p>☆   <span class="notice">M・S さん</span>（Ｈ27）<span class="strong">福島大学・人文社会科学群・人間発達文化学類</span>（推薦）<br>
 　　　　　　（Ｈ24）<span class="highschool">白石高校・普通科合格</span>(後期)【 白石東中学校出身 】</p>
