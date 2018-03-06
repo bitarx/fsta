@@ -124,6 +124,43 @@
                 </div>
             </article>
 
+            <article class="content">
+                <header>
+                    <h2 class="title"><span style="color:#4169e1">ふりスタ学習塾・春期講習案内</span></h2>
+                </header>
+                <div class="post toppage">
+<p>形式：　　小集団スタンダード・クラス形式<br>
+対象：　　新中学1年生～新中学３年生<br>
+日時：　　<span style="color:#4169e1">3月26日（月）～　４月8日（日）</span><br>
+時間帯：　１限目　9：00　～　２限目　10：30～</p>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th>１時間あたり</th>
+                                <td>¥1,500</td>
+                            </tr>
+                            <tr>
+                                <th>10時間〜</th>
+                                <td> ¥1,350 / １時間 </td>
+                            </tr>
+                            <tr>
+                                <th>20時間〜</th>
+                                <td> ¥1,300 / １時間 </td>
+                            </tr>
+                            <tr>
+                                <th>30時間〜</th>
+                                <td> ¥1,200 / １時間 </td>
+                            </tr>
+                        </tbody>
+                    </table>
+<p>
+※	20時間～　お申込みの場合、模擬試験代が込みの料金になります。<br>
+※	いずれも、教材費は頂きません<br>
+※	指導料金は消費税込みの値段になります。</p>
+                </div>
+            </article>
+        </section>
+
 
             <article id="" class="content">
                 <header>
