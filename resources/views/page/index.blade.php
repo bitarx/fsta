@@ -126,6 +126,35 @@
 
             <article class="content">
                 <header>
+                    <h2 class="title"><span style="color:#4169e1">小学生・中学生対象：　新規入塾キャンペーン　</span></h2>
+                </header>
+                <div class="post toppage">
+                    <p>キャンペーンの実施期間は、「 4月末日まで 」とさせていただきます。<br>
+当塾の指導を始めて受講される生徒さんに限らせて頂きます。<br>
+高校生以上対象のキャンペーンは現在行っておりません。<br>
+キャンペーンの併用はできません。</p>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th>①   無料体験指導</th>
+                                <td>1対1家庭教師プラン　90分　1回</td>
+                            </tr>
+                            <tr>
+                                <th>②   無料体験授業</th>
+                                <td>スタンダードプラン　90分　2回</td>
+                            </tr>
+                            <tr>
+                                <th>③   小学生対象</th>
+                                <td>キッズスタンダード　60分　2回</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </article>
+        </section>
+
+            <article class="content">
+                <header>
                     <h2 class="title"><span style="color:#4169e1">ふりスタ学習塾・春期講習案内</span></h2>
                 </header>
                 <div class="post toppage">
@@ -292,6 +321,15 @@
 <p>☆   <span class="notice">H・M さん</span>（Ｈ29）<span class="highschool">大河原商業・流通マネジメント科</span>（前期選抜試験）【 福岡中 】</p>
 
 <p>☆   <span class="notice">H・O さん</span>（Ｈ29）<span class="highschool">柴田高校・普通科</span>（前期選抜試験）【白石東中】</p>
+
+<p>☆   <span class="notice">M・S さん</span>（Ｈ29）<span class="highschool">福島大学・人文社会科学群・経済経営学類（前期）　</span>（H26）白石高校・普通科（前期）【白石東中学校】</p>
+
+<p>☆   <span class="notice">S・I くん</span>（Ｈ29）<span class="highschool">白石高校・普通科（後期）【福岡中学校】　</span></p>
+
+<p>☆   <span class="notice">K・M くん</span>（Ｈ29）<span class="highschool">白石工業高校・設備工業科（後期）【金津中学校】　</span></p>
+
+<p>☆   <span class="notice">S・K くん</span>（Ｈ29）<span class="highschool">柴田高校・普通科（後期）【船岡中学校】　</span></p>
+
 
 <p>☆   <span class="notice">R・O くん</span>（Ｈ28）<span class="strong">仙台高専・電気科専攻科</span>（推薦合格）≪4年生まで指導≫<br>
 　　　　　　（Ｈ24）<span class="strong">仙台高専・電気システム学科</span>（一般）【 角田中 】</p>
