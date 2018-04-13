@@ -65,7 +65,15 @@
                     <p><img src="images/banners/jihan.png" alt="" width="190" class="alignright">模擬試験の実施日に限り、『 ふりスタCafé 』が無料となります。<br>模擬試験の受験者は、ご自由にジュース類をお飲みください。<br><br>
                     <span class="notice">新みやぎ模試・実施予定日</span>
                     <table class="statsDay">
-                        <tr><td>３月25日(日)</td><td><span class="strong">【 新小５ ～ 新中３生対象 】</span></td></tr>
+                        <tr><td>７月15日(日)</td><td><span class="strong">【 中３生対象 】</span></td></tr>
+                        <tr><td>８月11日(土・祝)</td><td><span class="strong">【 小５〜中３生対象 】</span></td></tr>
+                        <tr><td>９月９日(日)</td><td><span class="strong">【 中３生対象 】</span></td></tr>
+                        <tr><td>10月８日(月・祝)</td><td><span class="strong">【 中３生対象 】</span></td></tr>
+                        <tr><td>11月３日(土・祝)</td><td><span class="strong">【 中３生対象 】</span></td></tr>
+                        <tr><td>12月２日(日)</td><td><span class="strong">【 中３生対象 】</span></td></tr>
+                        <tr><td>１月６日(日)</td><td><span class="strong">【 中３生対象 】</span></td></tr>
+                        <tr><td>２月11日(月・祝)</td><td><span class="strong">【 中３生対象 】</span></td></tr>
+                        <tr><td>３月24日(日)</td><td><span class="strong">【 小５〜中２生対象 】</span></td></tr>
                     </table>
                             午前の部　 9時～13時20分<br>
                             午後の部　14時～18時20分<br>料金は、3,600円（消費税込み）<br>（申し込み締め切りは、いずれも実施日の一週間前までです）<br>
@@ -151,50 +159,6 @@
                     </table>
                 </div>
             </article>
-        </section>
-
-            <article class="content">
-                <header>
-                    <h2 class="title"><span style="color:#4169e1">ふりスタ学習塾・春期講習案内</span></h2>
-                </header>
-                <div class="post toppage">
-                    <p>形式：　　小集団スタンダード・クラス形式<br>
-                    対象：　　新中学1年生～新中学３年生<br>
-                    日時：　　<span style="color:#4169e1">3月26日（月）～　４月8日（日）</span><br>
-                    時間帯：　１限目　13：00　～　16：30</p>
-                    <p>
-                    Aコマ　13：00　～　14：30（90分）<br>
-                    Bコマ　13：00　～　15：00（120分）<br>
-                    Cコマ　14：00　～　15：30（90分）<br>
-                    Dコマ　14：00　～　16：00（120分）<br>
-                    </p>
-                    <table>
-                        <tbody>
-                            <tr>
-                                <th>１時間あたり</th>
-                                <td>¥1,500</td>
-                            </tr>
-                            <tr>
-                                <th>10時間〜</th>
-                                <td> ¥1,350 / １時間 </td>
-                            </tr>
-                            <tr>
-                                <th>20時間〜</th>
-                                <td> ¥1,300 / １時間 </td>
-                            </tr>
-                            <tr>
-                                <th>30時間〜</th>
-                                <td> ¥1,200 / １時間 </td>
-                            </tr>
-                        </tbody>
-                    </table>
-<p>
-※	20時間～　お申込みの場合、模擬試験代が込みの料金になります。<br>
-※	いずれも、教材費は頂きません<br>
-※	指導料金は消費税込みの値段になります。</p>
-                </div>
-            </article>
-        </section>
 
 
             <article id="" class="content">
@@ -292,7 +256,9 @@
 ・〔 定期試験 ＆ 実力試験対策 〕 総合学力の充実<br>
 　「 定期試験の対策 」と「 模擬試験の対策 」が学習指導の中心になります。<br>
 ・〔 ベーシック ＆ 定期試験 〕　基礎学力の充実<br>
-　「 既習範囲の確認 及び 基礎学力の定着 」と「 定期試験の対策 」が学習指導の中心になります。<br>　学習習慣の定着が目標になります。
+　「 既習範囲の確認 及び 基礎学力の定着 」と「 定期試験の対策 」が学習指導の中心になります。<br>　学習習慣の定着が目標になります。<br>
+・〔 ＋100点　Up　集中特訓指導コース 〕　意識改革　+　学習習慣の定着
+　5教科で100点前後の生徒さんの「 大飛躍 」を目的としたコースです。毎年一人か二人、格段に成績が向上する生徒さんがいます。春から始めた生徒さんが対象になります。
                     </p>
                     <h3>小学生</h3>
                     <p>
