@@ -138,7 +138,7 @@ B．定期試験の成績を上げることを目標にします。<br><br>
                 <div class="post toppage">
                     <table>
                         <tbody>
-                    <p><span class="strongMessage">☆スタンダード・個別指導プラン</span></p>
+                    <p><span class="strongMessage">☆入試直前・特訓講習会『 ふりスタ・秋冬の陣 』</span></p>
                             <tr>
                                 <th>講習日</th>
                                 <td>10月6日（土）　～　3月3（日）</td>
@@ -162,6 +162,8 @@ B．定期試験の成績を上げることを目標にします。<br><br>
                     <p><span class="strongMessage">☆ 個別指導　6時間コース　￥9,000（ お試しコースです ）</span></p>
                     <p><span class="strongMessage">☆ 個別指導　6時間コース　￥12,000（ 模擬試験付コースです ）</span></p>
                     <p><span class="notice">※	講習はかなり濃い内容になります。その為、1日2時間が限界であると判断します。そのため午後は、フリータイムになります。自主的に自習するのも、1対1の指導を追加するのも自由です。</span></p>
+                    <p>※　模擬試験の差額は塾が負担致します。</p>
+                    <p>※　当塾に初めて入塾する生徒さんが対象となります。</p>
                     <p>※ テキスト１冊の全てを解く、授業内容ではありません。</p>
                 </div>
             </article>
@@ -169,7 +171,7 @@ B．定期試験の成績を上げることを目標にします。<br><br>
 
             <article id="" class="content">
                 <header>
-                    <h2 class="title"><span>指導料金「 スタンダード・個別指導プラン 」</span></h2>
+                    <h2 class="title"><span>指導料金「 スタンダード・個別指導プラン 」（通常料金）</span></h2>
                 </header>
                 <div class="post toppage">
                     <img src="images/banners/school_room.png" alt="" width="241" class="alignleft">
