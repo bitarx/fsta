@@ -4,6 +4,7 @@
                 <h3 class="title"><span>お知らせ</span></h3>
             </div>
             <div class="post news">
+                <p><time datetime="2019-1-31">2019/1/31</time><span>サイト情報更新しました！</span>
                 <p><time datetime="2019-1-12">2019/1/12</time><span>サイト情報更新しました！</span>
                 <p><time datetime="2018-12-1">2018/12/1</time><span>サイト情報更新しました！</span>
                 <p><time datetime="2018-10-12">2018/10/12</time><span>サイト情報更新しました！</span>
