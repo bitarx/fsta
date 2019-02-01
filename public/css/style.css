@@ -894,6 +894,9 @@ p {
 .mark {
     background: linear-gradient(transparent 60%, #ffff00 60%) !important;
 }
+.purple {
+    color: #800080;
+}
 
 /* 点滅 */
 .blinking{
