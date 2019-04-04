@@ -24,7 +24,7 @@
 <header id="header" role="banner">
     <div class="inner">
         <h1>白石市の学習塾「ふりスタ学習塾」</h1>
-        <h2><a href="/"><img src="/images/banners/logo-final.png" alt=""></a></h2>
+        <h2><a href="/"><img src="/images/banners/logo-new.png" alt=""></a></h2>
 	<div class="contact">
             @include('elements.contact')
 	</div>
