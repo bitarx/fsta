@@ -434,6 +434,29 @@ B．【 対象：定期試験 】<br>①定期試験の合計点を上げるこ�
             </article>
         </section>
         <section>
+            <article id="hensa" class="content">
+                <header>
+                    <h2 class="title"><span>参考偏差値 <<宮城県内高校>></span></h2>
+                </header>
+                <div class="post" style="padding:0 10px 20px 20px;">
+                    <table class="statsDay">
+<tr><td><span class="notice">34〜</span></td><td>村田高校(総合)</td></tr><br>
+<tr><td><span class="notice">35〜40</span></td><td>柴田高校・大河原商業・白石工業</td></tr>
+<tr><td><span class="notice">40〜42</span></td><td>角田高校・名取高校</td></tr>
+<tr><td><span class="notice">42〜44</span></td><td>白石工業(電気科)・仙台工業</td></tr>
+<tr><td><span class="notice">45〜47</span></td><td>仙台西高校・宮城県工業高校</td></tr>
+<tr><td><span class="notice">48〜50</span></td><td>白石高校・名取北高校 </td></tr>
+<tr><td><span class="notice">51〜53</span></td><td>仙台三桜高校・仙台東高校</td></tr>
+<tr><td><span class="notice">57〜58</span></td><td>仙台高専・仙台南高校</td></tr>
+<tr><td><span class="notice">60〜</span></td><td>仙台二華高・仙台向山高校</td></tr>
+		    </table>
+新みやぎ模試より作成<br>
+※ この数字は飽くまでも目安となります。偏差値は、受験人数や問題の難易度で変化します。<br>
+※ 偏差値とは、入学しやすさ( しにくさ )を数値化したもので、各高校の優劣を決めるものではありません。
+		</div>
+            </article>
+        </section>
+        <section>
             <article id="access" class="content">
                 <header>
                     <h2 class="title"><span>アクセス</span></h2>
