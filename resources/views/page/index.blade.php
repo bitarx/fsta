@@ -19,7 +19,7 @@
                 <div class="post news-top">
                     <table class="statsDay news-table">
 <tr><td>【 <span class="notice">高校生以上</span> 】</td><td>高校３年生の募集は締め切りました。<br>高校生の指導はただ今、キャンセル待ちになっております。</td></tr><br>
-<tr><td>【 <span class="notice">中学生</span> 】</td><td>募集継続中 !!<br>定期試験対策・スタンダード指導開講 !!</td></tr>
+<tr><td>【 <span class="notice">中学生</span> 】</td><td>募集継続中 !!</td></tr>
 <tr><td>【 <span class="notice">小学生</span> 】</td><td>募集継続中 !!<br>新規入塾キャンペーン中です !!</td></tr>
 		    </table>
 		</div>
@@ -47,7 +47,7 @@
 
                         <span class="strong">C．「 ゲスト模擬試験受験生プラン 」〔 模擬試験の受験のみを希望する場合 〕</span><br>
                         ・『 ふりスタ 』では『 新みやぎ模試 』が受験可能です（ 受験後の成績表は郵送になります ）。<br>
-・模擬試験受験後もしつこい勧誘は一切しません。<br><br>
+・模擬試験受験後もしつこい勧誘は一切しません。<br>・毎年10人ほど、模擬試験だけの受験希望者がいます。<br>
 <span class="strong">☆とことん・ふりスタ・システム</span><br>
 1対1指導の指導時間が、ひと月で6時間を超えた場合、『 スタンダード授業 』が割引になります。1対1指導で弱点を克服し、演習を繰り返し知識の定着をはかるのが目的なので、指導コマ数が必要な生徒さん中心に声掛けをします。1対1指導と集団指導の融合スタイルです。
 
@@ -84,16 +84,23 @@ B．【 対象：定期試験 】<br>①定期試験の合計点を上げるこ�
 
                     <h3>☆ 『 Free　Drinks 』（ 水分補給サービス ）</h3>
                     <p><img src="images/banners/jihan.png" alt="" width="190" class="alignright">模擬試験の実施日に限り、『 ふりスタCafé 』が無料となります。<br>模擬試験の受験者は、ご自由にジュース類をお飲みください。<br><br>
-                    <span class="notice">新みやぎ模試・実施予定日</span>
-			<br>※新年度の模擬試験は、７月以降毎月実施予定です。<br>
-<!--
+                    <span class="notice">新みやぎ模試・実施予定日</span><br>
+                            午前の部(中学生の部) 9時～13時20分<br>
+                            午後の部(小学生の部)14時～18時20分<br>
+
                     <table class="statsDay">
-                        <tr><td>３月23日(土)</td><td><span class="strong">【 小５〜中２生対象 】</span></td></tr>
-                        <tr><td>３月30日(土)</td><td><span class="strong">【 小５〜中２生対象 】</span></td></tr>
+                        <tr><th>実施日予定日</th><th><span class="">受験対象</span></th></tr>
+                        <tr><td>7月13日(土)</td><td><span class="strong">中学３年生</span></td></tr>
+                        <tr><td>8月3日(土)</td><td><span class="strong">小学５年生～中学３年生</span></td></tr>
+                        <tr><td>9月7日(土)</td><td><span class="strong">中学３年生対象</span></td></tr>
+                        <tr><td>10月12日(土)</td><td><span class="strong">中学３年生対象</span></td></tr>
+                        <tr><td>11月2日(土)</td><td><span class="strong">中学３年生対象</span></td></tr>
+                        <tr><td>12月7日(土)</td><td><span class="strong">中学３年生対象</span></td></tr>
+                        <tr><td>1月11日(土)</td><td><span class="strong">小学５年生～中学３年生</span></td></tr>
+                        <tr><td>2月20日(土)</td><td><span class="strong">中学３年生対象</span></td></tr>
+                        <tr><td>3月28日(土)</td><td><span class="strong">新小学生5年生～新中学３年生</span></td></tr>
                     </table>
--->
-                            午前の部　 9時～13時20分<br>
-                            午後の部　14時～18時20分<br>料金は、3,600円（消費税込み）<br>（申し込み締め切りは、いずれも実施日の一週間前までです）<br>
+料金は、3,600円（消費税込み）<br>（申し込み締め切りは、いずれも実施日の一週間前までです）<br>
 
                     </p>
                 </div>
@@ -105,6 +112,7 @@ B．【 対象：定期試験 】<br>①定期試験の合計点を上げるこ�
                     <h2 class="title"><span>指導料金「 １対1の完全個別・家庭教師プラン 」</span></h2>
                 </header>
                 <div class="post toppage">
+                    <h3><span class="strong blinking">≪ New ‼ ≫</span>　　1対1　　ペア指導</h3>
                     <table class="statsDay">
                         <tbody>
                             <img src="images/banners/1on1.png" alt="" width="231" class="alignright">
@@ -112,36 +120,43 @@ B．【 対象：定期試験 】<br>①定期試験の合計点を上げるこ�
                                 <th>小学生</th>
                                 <td>１時間</td>
                                 <td>　¥2,400　</td>
+                                <td>　¥1,800　</td>
                             </tr>
                             <tr>
-                                <th>中学1年生　　</th>
+                                <th>中学1年生</th>
                                 <td>１時間</td>
+                                <td>　¥3,000　</td>
+                                <td>　¥2,250　</td>
+                            </tr>
+                            <tr>
+                                <th>中学2年生</th>
+                                <td>１時間</td>
+                                <td>　¥3,500　</td>
+                                <td>　¥2,625　</td>
+                            </tr>
+                            <tr>
+                                <th>中学3年生</th>
+                                <td>１時間</td>
+                                <td>　¥3,750　</td>
+                                <td>　¥2,800　</td>
+                            </tr>
+                            <tr>
+                                <th>高校1年生</th>
+                                <td>１時間</td>
+                                <td>　¥4,000　</td>
                                 <td>　¥3,000　</td>
                             </tr>
                             <tr>
-                                <th>中学2年生　　</th>
-                                <td>１時間</td>
-                                <td>　¥3,500　</td>
-                            </tr>
-                            <tr>
-                                <th>中学3年生　　</th>
-                                <td>１時間</td>
-                                <td>　¥3,750　</td>
-                            </tr>
-                            <tr>
-                                <th>高校1年生　　</th>
-                                <td>１時間</td>
-                                <td>　¥4,000　</td>
-                            </tr>
-                            <tr>
-                                <th>高校2年生　　</th>
+                                <th>高校2年生</th>
                                 <td>１時間</td>
                                 <td>　¥4,500　</td>
+                                <td>　¥3,375　</td>
                             </tr>
                             <tr>
-                                <th>高校3年生　　</th>
+                                <th>高校3年生</th>
                                 <td>１時間</td>
                                 <td>　¥5,000　</td>
+                                <td>　¥3,750　</td>
                             </tr>
                         </tbody>
                     </table>
@@ -155,18 +170,18 @@ B．【 対象：定期試験 】<br>①定期試験の合計点を上げるこ�
                 <div class="post toppage">
                     <table>
                         <tbody>
-                    <p><span class="strongMessage">☆決定!! 定期試験対策・「 フリータイム・特訓スタンダード 」</span></p>
+                    <p><span class="strongMessage">＜　予告　＞　「夏期講習＜　ふりスタ・夏の陣！　＞」</span></p>
                             <tr>
                                 <th>講習日</th>
-                                <td>6月1日（土）　～　6月20（木）</td>
+                                <td>7月20日（土）　～　8月20（火）</td>
                             </tr>
                             <tr>
-                                <th>時間１（土・日・祝日）</th>
+                                <th>午前中の部</th>
                                 <td>朝 9：00　～　昼 12：00</td>
                             </tr>
                             <tr>
-                                <th>時間２（土・日・平日）</th>
-                                <td>夕方 19：00　～　夜 21：00</td>
+                                <th>夜の部</th>
+                                <td>夕方 18：00　～　夜 21：00</td>
                             </tr>
                             <tr>
                                 <th>学習時間</th>
@@ -174,11 +189,7 @@ B．【 対象：定期試験 】<br>①定期試験の合計点を上げるこ�
                             </tr>
                         </tbody>
                     </table>
-                    <p>※土日の部　６月１日(土)～６月１６日(日)　計６回</p>
-                    <p>※平日の部　毎週火曜日・木曜日　計６回</p>
-                    <p>※１時間につき1,000円（ 最大６時間 ）</p>
-                    <p>※中１ ～ 中３ 対象で当塾が初めての生徒限定になります。</p>
-                    <p>※学習内容は、国語以外の定期試験対策問題（塾で作成したオリジナル教材）です。</p>
+                    <p>詳細は、決定次第　掲載致します。</p>
 </p>
                 </div>
             </article>
@@ -344,7 +355,7 @@ B．【 対象：定期試験 】<br>①定期試験の合計点を上げるこ�
 <br>
 <br>
 【 大学・高校合格実績 】<br>
-<span class="strong blinking">≪ New ‼ ≫</span><br>
+<span class="strong blinking"></span><br>
 ☆白石高校・普通科（H30）← 【白石中】<br>
 ☆宮城野高校・普通科(H30) ← 【白石東中】<br>
 ☆前期選抜・全員合格 !!<br>
@@ -372,6 +383,7 @@ B．【 対象：定期試験 】<br>①定期試験の合計点を上げるこ�
 ☆ 仙台高専・マテリアル環境（推薦）（H26）← 金津中出身 【微積・物理学年No.1】<br>
 
 </p>
+            <p><img src="/images/f_result.jpg" height="328" alt=""></p>
 <p>
 【 成績上昇例 】過去の「新みやぎ模試」の受験結果です。1対1指導で半年以上
 の指導期間がある場合の例です。成績が落ちる生徒は皆無ですが、微増の生徒も
