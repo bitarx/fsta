@@ -86,7 +86,7 @@ B．【 対象：定期試験 】<br>①定期試験の合計点を上げるこ�
                     <p><img src="images/banners/jihan.png" alt="" width="190" class="alignright">模擬試験の実施日に限り、『 ふりスタCafé 』が無料となります。<br>模擬試験の受験者は、ご自由にジュース類をお飲みください。<br><br>
                     <span class="notice">新みやぎ模試・実施予定日</span><br>
                             午前の部(中学生の部) 9時～13時20分<br>
-                            午後の部(小学生の部)14時～18時20分<br>
+                            午後の部(小学生の部)14時～17時05分<br>
 
                     <table class="statsDay">
                         <tr><th>実施日予定日</th><th><span class="">受験対象</span></th></tr>
@@ -112,10 +112,16 @@ B．【 対象：定期試験 】<br>①定期試験の合計点を上げるこ�
                     <h2 class="title"><span>指導料金「 １対1の完全個別・家庭教師プラン 」</span></h2>
                 </header>
                 <div class="post toppage">
-                    <h3><span class="strong blinking">≪ New ‼ ≫</span>　　1対1　　ペア指導</h3>
+                    <h4><span class="strong blinking">≪ New ‼ ≫</span></h4>
                     <table class="statsDay">
                         <tbody>
                             <img src="images/banners/1on1.png" alt="" width="231" class="alignright">
+                            <tr>
+                                <th>学年</th>
+                                <th>時間</th>
+                                <th>1対1</th>
+                                <th>ペア指導</th>
+                            </tr>
                             <tr>
                                 <th>小学生</th>
                                 <td>１時間</td>
