@@ -19,10 +19,32 @@
                 <div class="post news-top">
                     <table class="statsDay news-table">
 <tr><td>【 <span class="notice">高校生以上</span> 】</td><td>高校３年生の募集は締め切りました。<br>高校生の指導はただ今、キャンセル待ちになっております。</td></tr><br>
-<tr><td>【 <span class="notice">中学生</span> 】</td><td>募集継続中 !!</td></tr>
-<tr><td>【 <span class="notice">小学生</span> 】</td><td>募集継続中 !!<br>新規入塾キャンペーン中です !!</td></tr>
+<tr><td>【 <span class="notice">中学生</span> 】</td><td>夏期講習受け付け中 !!<br>
+中学３年生の募集と紹介キャンペーンは、<br>
+７月31日(水)までです。<br>
+中学1・2年生は募集を継続します。<br>
+</td></tr>
+<tr><td>【 <span class="notice">小学生</span> 】</td><td>夏季入塾キャンペーン中です !!</td></tr>
 		    </table>
 		</div>
+                <div class="post news-top">
+<h2>月謝金額例（ 中学3年生の場合 ）</h2>
+※スタンダード指導(ST)は 1対1指導（EX）の受講時間により料金(時間単価)が変わります<br>
+① 1対1指導が6時間未満の場合　¥1,800<br>	
+② 1対1指導が6時間以上の場合　¥1,600<br>
+③ 月謝金額がひと月で3万円を超える場合　¥1,500<br>
+④  STだけの学習で6時間を超える分は1時間 ¥1,700<br><br>
+
+1対1指導と併用する場合<br>
+【 ケース① 】　EX 3時間+ST 3時間　¥16,650<br>
+【 ケース② 】　EX 6時間+ST 3時間　¥27,300<br>
+【 ケース③ 】　EX 6時間+ST 10時間　¥37,500<br>
+1対1指導を希望しない場合<br>
+【 ケース④A 】　ST 6時間　¥10,000<br>
+【 ケース④B 】　ST10時間　¥16,800<br><br>
+            <p><img src="/images/kaki.jpg" width="100%" alt=""></p>
+		</div>
+
 	    </article>
             <article id="desc" class="content">
                 <header>
