@@ -19,12 +19,11 @@
                 <div class="post news-top">
                     <table class="statsDay news-table">
 <tr><td>【 <span class="notice">高校生以上</span> 】</td><td>高校３年生の募集は締め切りました。<br>高校生の指導はただ今、キャンセル待ちになっております。</td></tr><br>
-<tr><td>【 <span class="notice">中学生</span> 】</td><td>夏期講習受け付け中 !!<br>
-中学３年生の募集と紹介キャンペーンは、<br>
-７月31日(水)までです。<br>
+<tr><td>【 <span class="notice">中学生</span> 】</td><td>中学３年生の１対１指導は時間指定になります。<br>
+スタンダード指導も、時間指定になります。<br>
 中学1・2年生は募集を継続します。<br>
 </td></tr>
-<tr><td>【 <span class="notice">小学生</span> 】</td><td>夏季入塾キャンペーン中です !!</td></tr>
+<tr><td>【 <span class="notice">小学生</span> 】</td><td>お試し1ヶ月キャンペーン中です!!</td></tr>
 		    </table>
 		</div>
                 <div class="post news-top">
@@ -46,42 +45,10 @@
 		</div>
 
                 <div class="post news-top">
-<h2>☆	夏期・特訓スタンダード『 ふりスタ・夏の陣 』</h2>
-※４回の無料体験や、1週間前後の季節講習だけで成績が上がるはずがありません。勉強は毎日するものです。毎日勉強し続けて、成績は少し上がります。<br>
-①毎日特訓講習、②曜日・時間自由（90～120分）、➂回数も自由(最大20時間まで講習料金扱い)<br>
-※偏差値 +10伝説は、春から始まっております。<br>
-                    <table class="statsDay">
-                        <tbody>
-                            <tr>
-                                <th>講習期間</th>
-                                <td>7月20日（土）　～　8月20（火）</td>
-                            </tr>
-                            <tr>
-                                <th>時間帯</th>
-                                <td>朝 9：00　～　昼 12：00<br>夕方18：00　～　夜21：00</td>
-                            </tr>
-                            <tr>
-                                <th>学習時間</th>
-                                <td>90分 ～ 120分(生徒が選択可)</td>
-                            </tr>
-                        </tbody>
-                    </table><br>
-<h2>☆	中学1～3年生対象：「模擬試験対策勉強会」</h2>
-【 A 】 EXプラン　3時間 +  STプラン3時間　¥9,000<br>
-【 B 】 EXプラン　90分 + STプラン 4.5時間　¥9,000<br>
-【 C 】 STプランのみ希望1時間　¥1,500( 最大20時間まで )<br>
-<br>
-追加オプション<br>
-【 D 】　スタンダード追加指導　1時間ごとに ¥1,500<br>（ EXと併せて合計20時間まで追加可能 ）<br>
-【 E 】　模擬試験受験 （夏期講習受講者のみ対象） 追加　¥2,000<br><br>
-<h2>☆　小学生対象：「ふりスタでがんばろう！」</h2>
-☆　60分、４回　￥3,000（ お1人様、一回限り ）<br>
-☆　模擬試験付きコース(5・6年生対象)　¥5,000 (60分、4回)<br>+模擬試験（8月実施予定）<br>
-※模擬試験は7月(中3のみ実施)か8月実施分(小5～中3)が対象となります。<br>
-※ 季節講習受講者の模擬試験の差額は塾が負担いたします。<br><br>
+<h2>☆　小学生対象：「お試し1ヶ月キャンペーン」</h2>
+☆　60分、1回　￥1,000（ 1ヶ月の月謝の上限が6,000円になります。 ）<br>
 
 
-            <p><img src="/images/summer.jpg" width="100%" alt=""></p>
 		</div>
 
 	    </article>
@@ -100,7 +67,7 @@
 			・宿題は生徒が希望する場合以外は、ほぼ出しません。成績不振を生徒の怠慢に転嫁しません。<br><br>
 
 
-                        <span class="strong">B. 「 フリータイムスタンダードプラン 」〔 小・中学生対象：少人数指導 〕</span><br>
+                        <span class="strong">B. 「 フリータイムスタンダードプラン 」〔 小・中学生対象：少人数個別指導 〕</span><br>
 			※　１クラス３人以下の少人数個別指導クラスです。<br>
                         ・90分～120分の問題演習に特化したコースになります。かなり厳しい内容なので、120分が限界になります。<br>
 ・講習期間中は、ほぼ毎日学習指導を行います。<br>
@@ -151,8 +118,6 @@ B．【 対象：定期試験 】<br>①定期試験の合計点を上げるこ�
 
                     <table class="statsDay">
                         <tr><th>実施日予定日</th><th><span class="">受験対象</span></th></tr>
-                        <tr><td>7月13日(土)</td><td><span class="strong">中学３年生</span></td></tr>
-                        <tr><td>8月3日(土)</td><td><span class="strong">小学５年生～中学３年生</span></td></tr>
                         <tr><td>9月7日(土)</td><td><span class="strong">中学３年生対象</span></td></tr>
                         <tr><td>10月12日(土)</td><td><span class="strong">中学３年生対象</span></td></tr>
                         <tr><td>11月2日(土)</td><td><span class="strong">中学３年生対象</span></td></tr>
@@ -232,35 +197,6 @@ B．【 対象：定期試験 】<br>①定期試験の合計点を上げるこ�
                     ※ 兄弟姉妹割引あります。<br>
                 </div>
             </article>
-
-            <article class="content">
-                <div class="post toppage">
-                    <table>
-                        <tbody>
-                    <p><span class="strongMessage">＜　予告　＞　「夏期講習＜　ふりスタ・夏の陣！　＞」</span></p>
-                            <tr>
-                                <th>講習日</th>
-                                <td>7月20日（土）　～　8月20（火）</td>
-                            </tr>
-                            <tr>
-                                <th>午前中の部</th>
-                                <td>朝 9：00　～　昼 12：00</td>
-                            </tr>
-                            <tr>
-                                <th>夜の部</th>
-                                <td>夕方 18：00　～　夜 21：00</td>
-                            </tr>
-                            <tr>
-                                <th>学習時間</th>
-                                <td>90分 ～ 120分</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <p>詳細は、決定次第　掲載致します。</p>
-</p>
-                </div>
-            </article>
-
 
             <article id="" class="content">
                 <header>
