@@ -25,6 +25,7 @@
 中学1・2年生は募集を継続します。<br>
 </td></tr>
 <tr><td>【 <span class="notice">小学生</span> 】</td><td>お試し1ヶ月キャンペーン中です!!</td></tr>
+<tr><td></td><td><span class="strong">※消費税の改定による月謝金額の変更はありません。</span></td></tr>
 		    </table>
 		</div>
                 <div class="post news-top">
@@ -121,7 +122,7 @@ B．【 対象：定期試験 】<br>①定期試験の合計点を上げるこ�
 
                     <table class="statsDay">
                         <tr><th>実施日予定日</th><th><span class="">受験対象</span></th></tr>
-                        <tr><td>10月12日(土)</td><td><span class="strong">中学３年生対象</span></td></tr>
+                        <tr><td>10月12日(土)</td><td><span class="strong">中学３年生対象 ※予備日 10/13(日)</span></td></tr>
                         <tr><td>11月2日(土)</td><td><span class="strong">中学３年生対象</span></td></tr>
                         <tr><td>12月7日(土)</td><td><span class="strong">中学３年生対象</span></td></tr>
                         <tr><td>1月11日(土)</td><td><span class="strong">小学５年生～中学３年生</span></td></tr>
