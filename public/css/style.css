@@ -933,3 +933,6 @@ p {
 .news-table td {
     border: none !important;
 }
+.news-table td:first-child {
+    width:25%;
+}
