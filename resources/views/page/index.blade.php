@@ -132,8 +132,7 @@ B．【 対象：定期試験 】
 
                     <table class="statsDay">
                         <tr><th>実施日予定日</th><th><span class="">受験対象</span></th></tr>
-                        <tr><td>11月2日(土)</td><td><span class="strong">中学３年生対象※予備日11/3(日)</span></td></tr>
-                        <tr><td>12月7日(土)</td><td><span class="strong">中学３年生対象</span></td></tr>
+                        <tr><td>12月7日(土)</td><td><span class="strong">中学３年生対象※予備日12/8(日)</span></td></tr>
                         <tr><td>1月11日(土)</td><td><span class="strong">小学５年生～中学３年生</span></td></tr>
                         <tr><td>2月20日(土)</td><td><span class="strong">中学３年生対象</span></td></tr>
                         <tr><td>3月28日(土)</td><td><span class="strong">新小学生5年生～新中学３年生</span></td></tr>
@@ -150,7 +149,6 @@ B．【 対象：定期試験 】
                     <h2 class="title"><span>指導料金「 １対1の完全個別・家庭教師プラン 」</span></h2>
                 </header>
                 <div class="post toppage">
-                    <h4><span class="strong blinking">≪ New ‼ ≫</span></h4>
                     <table class="statsDay">
                         <tbody>
                             <img src="images/banners/1on1.png" alt="" width="231" class="alignright">
@@ -207,6 +205,7 @@ B．【 対象：定期試験 】
                     ※ 仙台高専４年生・浪人生は高校３年生料金となります。<br>
                     ※ ペア指導割引あります。<br>
                     ※ 兄弟姉妹割引あります。<br>
+                    ※ 長期契約割引もあります。<br>
                 </div>
             </article>
 
@@ -303,6 +302,14 @@ B．【 対象：定期試験 】
                     （4） ご家庭での指導を希望する場合、別途派遣費用が必要になります。<br>
                     （5） 学習指導の時間帯と料金は飽くまでも目安となります。時間を延長して授業を受けた場合や、時間を短縮して授業を受けた場合は30分単位の清算になります。<br>
                     </p>
+                    <p style="text-align:center;">≪　悪質5大契約は、ありません !!　≫</p>
+                    <p>
+①	入塾金（訳が分かりません）<br>
+②	月謝の前払い。自動引き落とし。<br>（月謝はサービス発生後に請求させて頂きます。）<br>
+③	模擬試験・季節講習の強制参加<br>（受講したい人が、受講してください。）<br>
+④	高額な教材販売<br>（教材を購入しても、すべて終えることができない場合が多いです。）<br>
+⑤	無料体験（只より高い物はない。当塾では、タダで提供できる安っぽいサービスはありません。）
+                   </p>
                 </div>
             </article>
         </section>
