@@ -21,6 +21,8 @@
 <tr><td>【 <span class="notice">高校生以上</span> 】</td><td>２月１日(土)～３月末日まで、高校生の募集を解禁します。</td></tr><br>
 <tr><td>【 <span class="notice">中学生</span> 】</td><td>冬期講習・第２弾 「 スタンダードFINAL・最後の手段！ 」<br>
 日時：1月12日（日）～3月3日（火）<br>
+※３月１日（日）～３日（火）は、受験生（塾生限定）の指導料が無料になります。
+<br>
 <br>
 
 土・日・祝日：朝9時 ～ 12時(原則)<br>
@@ -38,32 +40,18 @@
 　・「これでダメなら、他に手段はありません」という内容です。<br>
 ② 中学1～2年生「学年末試験対策指導」<br>
 　・転塾者は優遇します。<br>
-　・中1・中2限定「お試し体験コース」（無料体験扱いが４時間までになります）<br>
+　・中1・中2限定「お試し体験コース」<br>（無料体験扱いが４時間までになります）<br>
+※入塾時に実力テストで、５教科８０点台だった生徒が１２月・１月実施の模擬試験（復習確認テスト）で120～150点の成績で安定するようになりました。(３人)<br>
+※模擬試験（復習確認テスト）５教科210点だった生徒が50～100点Up（その後も安定しています）（２人）<br>
+
 </td></tr>
 <tr><td>【 <span class="notice">小学生</span> 】</td><td>お試し1ヶ月キャンペーン中です!!<br>小学生対象「ふりスタでがんばろう！」<br>
 　・小学生は1か月間の月謝の上限が1000円(税込み)になります（１２月と１月は８回まで）。中学受験生を除く。
 </td></tr>
 <tr><td></td><td>☆中学２年生以下で入塾した生徒には英語辞書をプレゼントします。「ふりスタ・English Dictionary Project」（英単語と熟語をあわせて１０００語以上収録した、塾のオリジナル辞書です。）<br>
 ☆小学生から分析的に英語を読めるようになります。<br><br>
-<span class="strong">※消費税の改定による月謝金額の変更はありません。<br><span style="font-size:24px;">(令和２年３月末日まで)</span></span></td></tr>
+<span class="strong">※消費税の改定による月謝金額の変更はありません。<br><span style="font-size:24px;">(令和２年３月末日まで)</span></span><br><span style="font-size:24px;">４月１日より「変動月謝制」になります</span></td></tr>
 		    </table>
-		</div>
-                <div class="post news-top">
-<h2>月謝金額例（ 中学3年生の場合 ）</h2>
-※スタンダード指導(ST)は 1対1指導（EX）の受講時間により料金(時間単価)が変わります<br>
-① 1対1指導が6時間未満の場合　¥1,800<br>	
-② 1対1指導が6時間以上の場合　¥1,600<br>
-③ 月謝金額がひと月で3万円を超える場合　¥1,500<br>
-④  STだけの学習で6時間を超える分は1時間 ¥1,700<br><br>
-
-1対1指導と併用する場合<br>
-【 ケース① 】　EX 3時間+ST 3時間　¥16,650<br>
-【 ケース② 】　EX 6時間+ST 3時間　¥27,300<br>
-【 ケース③ 】　EX 6時間+ST 10時間　¥37,500<br>
-1対1指導を希望しない場合<br>
-【 ケース④A 】　ST 6時間　¥10,000<br>
-【 ケース④B 】　ST10時間　¥16,800<br><br>
-            <p><img src="/images/kaki.jpg" width="100%" alt=""></p>
 		</div>
 
                 <div class="post news-top">
@@ -162,60 +150,11 @@ B．【 対象：定期試験 】
                     <h2 class="title"><span>指導料金「 １対1の完全個別・家庭教師プラン 」</span></h2>
                 </header>
                 <div class="post toppage">
-                    <table class="statsDay">
-                        <tbody>
-                            <img src="images/banners/1on1.png" alt="" width="231" class="alignright">
-                            <tr>
-                                <th>学年</th>
-                                <th>時間</th>
-                                <th>1対1</th>
-                                <th>ペア指導</th>
-                            </tr>
-                            <tr>
-                                <th>小学生</th>
-                                <td>１時間</td>
-                                <td>　¥2,400　</td>
-                                <td>　¥1,800　</td>
-                            </tr>
-                            <tr>
-                                <th>中学1年生</th>
-                                <td>１時間</td>
-                                <td>　¥3,000　</td>
-                                <td>　¥2,250　</td>
-                            </tr>
-                            <tr>
-                                <th>中学2年生</th>
-                                <td>１時間</td>
-                                <td>　¥3,500　</td>
-                                <td>　¥2,625　</td>
-                            </tr>
-                            <tr>
-                                <th>中学3年生</th>
-                                <td>１時間</td>
-                                <td>　¥3,750　</td>
-                                <td>　¥2,800　</td>
-                            </tr>
-                            <tr>
-                                <th>高校1年生</th>
-                                <td>１時間</td>
-                                <td>　¥4,000　</td>
-                                <td>　¥3,000　</td>
-                            </tr>
-                            <tr>
-                                <th>高校2年生</th>
-                                <td>１時間</td>
-                                <td>　¥4,500　</td>
-                                <td>　¥3,375　</td>
-                            </tr>
-                            <tr>
-                                <th>高校3年生</th>
-                                <td>１時間</td>
-                                <td>　¥5,000　</td>
-                                <td>　¥3,750　</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    ※ 仙台高専４年生・浪人生は高校３年生料金となります。<br>
+<span style="font-size:24px;">指導料金「 スタンダード・個別指導プラン 」</span><br>
+共に、「変動月謝制」になります。指導を受けた分だけ、月謝を頂くシステムになります。詳しくは教室でお尋ねください。<br>
+
+                    <img src="images/banners/1on1.png" alt="" width="231" class="alignright">
+                    <br>※ 仙台高専４年生・浪人生は高校３年生料金となります。<br>
                     ※ ペア指導割引あります。<br>
                     ※ 兄弟姉妹割引あります。<br>
                     ※ 長期契約割引もあります。<br>
@@ -223,9 +162,6 @@ B．【 対象：定期試験 】
             </article>
 
             <article id="" class="content">
-                <header>
-                    <h2 class="title"><span>指導料金「 スタンダード・個別指導プラン 」（通常料金）</span></h2>
-                </header>
                 <div class="post toppage">
                     <img src="images/banners/school_room.png" alt="" width="241" class="alignleft">
                     中学1年生　～　中学3年生
