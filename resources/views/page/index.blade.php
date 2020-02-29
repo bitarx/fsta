@@ -4,7 +4,7 @@
 <div id="mainImg">
     <div class="flexslider">
         <ul class="slides" style="text-align:center;">
-            <li><img src="/images/banners/mainImg1.jpg" height="328" alt=""></li>
+            <li><img src="/images/fsty-main-min.jpg" alt="白石市学習塾イメージ"></li>
         </ul>
     </div>
 </div>
@@ -428,14 +428,47 @@ B．【 対象：定期試験 】
 		</div>
             </article>
         </section>
+
+        <section>
+            <article id="" class="content">
+                <header>
+                    <h2 class="title"><span>事業者概要</span></h2>
+                </header>
+                <div class="post toppage">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th style="width:20%">名称</th>
+                                <td style="width:80%">ふりスタ学習塾</td>
+                            </tr>
+                            <tr>
+                                <th>住所</th>
+                                <td>宮城県白石市沢目 ８-７-2F</td>
+                            </tr>
+                            <tr>
+                                <th>電話番号</th>
+                                <td><a href="tel:0224-26-6535">0224-26-6535</a></td>
+                            </tr>
+                            <tr>
+                                <th>代表者名</th>
+                                <td>富樫 英二</td>
+                            </tr>
+                            <tr>
+                                <th>事業内容</th>
+                                <td>学習塾・家庭教師</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </article>
+        </section>
         <section>
             <article id="access" class="content">
                 <header>
                     <h2 class="title"><span>アクセス</span></h2>
                 </header>
                 <div class="post toppage">
-                    <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3143.855684846724!2d140.6231687502867!3d38.00382650662266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f8a421d4b5f1241%3A0xdcf52d636bedeb85!2z44CSOTg5LTAyNDMg5a6u5Z-O55yM55m955-z5biC5rKi55uu77yY4oiS77yX!5e0!3m2!1sja!2sjp!4v1505975100454" width="98%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-                    </p>
+		    <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1571.9312619921404!2d140.6242166581052!3d38.00366699492961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDAwJzEzLjIiTiAxNDDCsDM3JzMxLjEiRQ!5e0!3m2!1sja!2sjp!4v1582939708627!5m2!1sja!2sjp" width="98%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe></p>
                 </div>
             </article>
         </section>
